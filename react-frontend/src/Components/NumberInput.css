@@ -1,0 +1,22 @@
+.number-input-wrapper {
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+.number-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+  border-radius: 6px;
+  border: 1px solid #555;
+  background-color: #3a3a3a;
+  color: #ffffff;
+}
+
+.number-input::placeholder {
+  color: #aaa;
+}
+
+.number-input:focus {
+  border-color: #888;
+}

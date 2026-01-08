@@ -1,0 +1,12 @@
+.result-card {
+  margin-top: 16px;
+  padding: 12px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  color: #000000;
+  text-align: left;
+}
+
+.result-card p {
+  margin: 6px 0;
+}
